@@ -1,0 +1,22 @@
+{
+  "name": "graph.route",
+  "version": "0.0.1",
+  "authors": [
+    "zcfrank1st"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dagre-d3": "0.2.9",
+    "angular": "~1.2.24"
+  }
+}
