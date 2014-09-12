@@ -6,7 +6,7 @@ use dagre to draw route
 
 ### Usage
 
-see demo in `example` dir
+see the demo in `example` dir
 
 ### Licence
 
